@@ -45,9 +45,10 @@ El hotel solicita nuestra ayuda para desarrollar un sistema de reserva.
 
 Esta es la pantalla inicial de la aplicacion, nos sirve de presentación con la primera interacción del cliente a nuestra aplicacion. Al precionar el icono nos llevara a la pestaña  de login.
 
-<p align="center">
-	![1  principal](https://github.com/Jose-Ch1/HotelAluraChallenge/assets/123495174/486e0c58-a7dd-4d77-b564-f972e4d900d7)
+<p align="center" >
+     <img width="300" heigth="300" src="https://github.com/Jose-Ch1/HotelAluraChallenge/assets/123495174/486e0c58-a7dd-4d77-b564-f972e4d900d7">
 </p>
+
 
 ### 2. Login 
 
